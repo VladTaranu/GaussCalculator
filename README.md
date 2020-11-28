@@ -2,5 +2,4 @@
 
 Author : Taranu Teodor-Vlad
 
-Made just for educational purposes , free for everyone.
-Protected by MIT License
+Made with for educational purposes , free for everyone.
